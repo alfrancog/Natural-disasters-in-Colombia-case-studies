@@ -1,6 +1,11 @@
 # Natural disasters in Colombia: case studies
 
-Short description
+I believe that education can save lives, so let's learn from past events in our country.
+
+> "The key to risk reduction is understanding risk itself, education about it, and the determined and committed participation of all social, 
+> private, and public actors in its resolution" (Lavell, 1999).
+
+# Contents
 
 ## [Introduction - Importance of environmental education in Colombia](introduction.md)
 
@@ -14,6 +19,7 @@ Short description
 
 ## [Conclusion - Some lessons learned](conclusion.md)
 
+![home](images/home.jpg)
 
 > **Author:** [Alejandro Franco García](about-me.md)
 > 
