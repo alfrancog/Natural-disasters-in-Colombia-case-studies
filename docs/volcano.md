@@ -26,5 +26,5 @@ to bear the economic or political costs of early evacuation or a false alarm, an
 action to the last possible minute" (Voight, 1990).
 
 > Voight, B. (1990). The 1985 Nevado del Ruiz volcano catastrophe: anatomy and retrospection. 
-> *Journal of Volcanology and Geothermal Research, 44, 349–386.* 
+> *Journal of Volcanology and Geothermal Research, 44,* 349–386. 
 > https://doi.org/10.1016/0377-0273(90)90075-Q
