@@ -1,4 +1,4 @@
-![armero](images/armero.jfif)
+![armenia](images/armenia.jpeg)
 
 # Vulnerability and Site Effects in Earthquake Disasters in Armenia (Colombia). II – Observed Damages and Vulnerability
 ### Synopsis #2
