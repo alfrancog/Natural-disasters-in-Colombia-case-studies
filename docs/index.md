@@ -1,36 +1,28 @@
 # Natural disasters in Colombia: case studies
 
-Poner una corta descripción
+Short description
+
+## [Introduction - Importance of environmental education in Colombia](introduction.md)
+
+### [Volcano threats](volcano.md)
+
+### [Earthquake threats](earthquake.md)
+
+### [Landslide threats](landslide.md)
+
+### [Hurricane threats](hurricane.md)
+
+## [Conclusion - Some lessons learned](conclusion.md)
 
 
-## Introduction - Importance of environmental education in Colombia
-
-## Content 
-
-### [Threat by volcano](reviews.md)
-
-### Seismic threat
-
-### Threat by landslides
-
-### Hurricane threat
-
-## Conclusion - Some lessons learned
-
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-Program
-
-Author
-
-Undergraduate program
-
-email
-
-Teacher
-
-2021-1
+> **Author:** [Alejandro Franco García](about-me.md)
+> 
+> **email:** alfrancog@unal.edu.co
+> 
+> **Undergraduate program:** Geology
+> 
+> **Program:** Explora UN Mundo / Intensive English Program - Group 3
+> 
+> **Teacher:** Andrés Felipe Micán Castiblanco
+> 
+> **2021-1**
