@@ -1,4 +1,4 @@
-# Home
+# Natural disasters in Colombia: case studies
 
 Poner una corta descripción
 
@@ -17,6 +17,11 @@ Poner una corta descripción
 
 ## Conclusion - Some lessons learned
 
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 Program
 
