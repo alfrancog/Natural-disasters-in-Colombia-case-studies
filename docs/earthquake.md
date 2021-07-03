@@ -1,5 +1,5 @@
 # Vulnerability and Site Effects in Earthquake Disasters in Armenia (Colombia). II – Observed Damages and Vulnerability
-###### Synopsis #2
+### Synopsis #2
 
 This article compares and contrasts two vulnerability evaluations made in Armenia, Quindío,
 in 1993 and 2004, which are very important benchmarks given that between these dates an 
