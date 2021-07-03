@@ -1,3 +1,5 @@
+![iota](images/iota.jpeg)
+
 # Hurricane Iota, a destroying consequence of climate variability.
 ### Review #2
 
