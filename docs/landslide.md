@@ -1,5 +1,5 @@
 # The characteristics of the Mocoa compound disaster event, Colombia
-###### Synopsis #3
+### Synopsis #3
 
 Thanks to the advanced use of geographic information software (GIS), statistical elements, and 
 computational tools, it was possible to reconstruct all the events that had occurred prior to the 
