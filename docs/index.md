@@ -7,6 +7,8 @@ I believe that education can save lives, so let's learn from past events in our 
 
 ![home](images/home.jpeg)
 
+---------------------------------------------------------------
+
 # Contents
 
 ## [Introduction - Importance of environmental education in Colombia](introduction.md)
