@@ -8,9 +8,9 @@ Short description
 
 ### [Earthquake threats](earthquake.md)
 
-### [Landslide threats](landslide.md)
-
 ### [Hurricane threats](hurricane.md)
+
+### [Landslide threats](landslide.md)
 
 ## [Conclusion - Some lessons learned](conclusion.md)
 
