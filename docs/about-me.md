@@ -8,3 +8,7 @@ I firmly believe in the importance of the divulgation of geological events and n
 live in areas at risk, in order to prevent threats and harms in the future. Natural disasters are an inherent topic in my undergraduate program that have interested
 me for a long time, for this reason, I am part of a group in geological and environmental risks that especially analyzes this type of situation in our country, and
 a group in seismology that emphazises in learning the physics behind earthquakes as well.
+
+![That's me](AFG.jpeg)
+
+> Contact me via [Instagram] or by my email (alfrancog@unal.edu.co)
