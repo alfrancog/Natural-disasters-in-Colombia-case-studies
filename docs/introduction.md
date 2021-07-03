@@ -1,4 +1,5 @@
 #  Importance of environmental education in socio-natural risk management in five countries of Latin America and the Caribbean.
+###### Review #1
 
 Disaster prevention through education is not as simple as it sounds, it contains many technical
 terminologies for many of us, but in this article, some concepts such as risk management,
@@ -27,5 +28,5 @@ in order to take the proper decisions in certain natural situations.
 
 > Ordóñez-Diaz, M. M., Montes-Arias, L. M., & Del Pilar Garzón-Cortés, G. (2018). 
 > Importancia de la educación ambiental en la gestión del riesgo socio-natural en cinco países de 
-> América Latina y el Caribe. Revista Electronica Educare, 22(1), 1–19. 
+> América Latina y el Caribe. *Revista Electronica Educare, 22(1),* 1–19. 
 > https://doi.org/10.15359/ree.22-1.17
