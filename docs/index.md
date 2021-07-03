@@ -1,8 +1,15 @@
 # Home
 
-Que esta sea mi página de inicio
+Poner una corta descripción
 
-¿Qué pasa que no se actualiza? :(
+Program
 
-Al parecer solo se actualiza cuando se llama index.md
-¿Entonces cómo hago las otras páginas? Creo que tocará con diferentes repositorios :/
+Author
+
+Undergraduate program
+
+email
+
+Teacher
+
+2021-1
