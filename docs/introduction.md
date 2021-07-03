@@ -1,3 +1,5 @@
+![intro](images/intro.jpg
+
 #  Importance of environmental education in socio-natural risk management in five countries of Latin America and the Caribbean.
 ### Review #1
 
