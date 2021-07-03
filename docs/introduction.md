@@ -2,8 +2,8 @@
 ###### Review #1
 
 Disaster prevention through education is not as simple as it sounds, it contains many technical
-terminologies for many of us, but in this article, some concepts such as risk management,
-vulnerability and threat were described in a way that brings us closer to environmental education,
+terminologies for many of us, but in this article, some concepts such as *risk management*,
+*vulnerability* and *threat* were described in a way that brings us closer to environmental education,
 remarking the importance of its understanding in order to apply it in the following readings.
 
 As a contextualization, the authors present a bibliographic review of the theoretical-technical
