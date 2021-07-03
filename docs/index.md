@@ -19,7 +19,7 @@ I believe that education can save lives, so let's learn from past events in our 
 
 ## [Conclusion - Some lessons learned](conclusion.md)
 
-![home](images/home.jpg)
+![home](images/home.jpeg)
 
 > **Author:** [Alejandro Franco García](about-me.md)
 > 
