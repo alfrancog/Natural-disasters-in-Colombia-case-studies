@@ -1,5 +1,5 @@
 # The 1985 Nevado del Ruiz volcano catastrophe: anatomy and retrospection
-###### Synopsis #1
+### Synopsis #1
 
 This article relates the events that occurred before and after the night of November 13, 1985, 
 when Nevado del Ruiz Volcano erupted killing more than 25000 people.  One year before the 
