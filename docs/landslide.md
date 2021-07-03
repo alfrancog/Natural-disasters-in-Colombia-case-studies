@@ -1,3 +1,5 @@
+![mocoa](images/mocoa.jpeg)
+
 # The characteristics of the Mocoa compound disaster event, Colombia
 ### Synopsis #3
 
