@@ -1,5 +1,5 @@
 # Leveraging lessons learned to prevent future disasters—insights from the 2013 Colombia-US binational exchange
-###### Review #3
+### Review #3
 The governments of the USA and Colombia were seeking an experience of empirical learning when they 
 joined forces and designed an exchange program between scientists and rescue departments, which 
 would promote in them the understanding of possible disasters in volcanic areas and the importance 
