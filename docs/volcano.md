@@ -1,3 +1,5 @@
+![armero](images/armero.jfif)
+
 # The 1985 Nevado del Ruiz volcano catastrophe: anatomy and retrospection
 ### Synopsis #1
 
