@@ -9,6 +9,6 @@ live in areas at risk, in order to prevent threats and harms in the future. Natu
 me for a long time, for this reason, I am part of a group in geological and environmental risks that especially analyzes this type of situation in our country, and
 a group in seismology that emphazises in learning the physics behind earthquakes as well.
 
-![That's me](AFG.jpeg)
+![That's me](images/AFG.jpg)
 
-> Contact me via [Instagram] or by my email (alfrancog@unal.edu.co)
+> Contact me via [Instagram](https://instagram.com/arisnitoo) or by my email (alfrancog@unal.edu.co)
