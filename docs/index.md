@@ -21,6 +21,8 @@ I believe that education can save lives, so let's learn from past events in our 
 
 ## [Conclusion - Some lessons learned](conclusion.md)
 
+---------------------------------------------------------------
+
 > **Author:** [Alejandro Franco García](about-me.md)
 > 
 > **email:** alfrancog@unal.edu.co
