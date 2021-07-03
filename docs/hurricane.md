@@ -1,5 +1,5 @@
 # Hurricane Iota, a destroying consequence of climate variability.
-###### Review #2
+### Review #2
 
 Hurricane Iota was the largest natural disaster that has occurred in Colombia last year. 
 In this newspaper article, the author states that the conditions in which the hurricane 
